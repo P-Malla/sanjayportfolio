@@ -1,0 +1,23 @@
+*{
+    border: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #E0EBE8;
+}
+.nav-link{
+    color: black;
+}
+.VT{
+    font-family: 'VT323', monospace;
+}
+.san{
+    border-radius: 50%;
+}
+.greenHeading{
+    color: green;
+}
+footer{
+    background-color: rgb(189, 216, 139);
+    padding: 40px;
+}

@@ -21,3 +21,12 @@ footer{
     background-color: rgb(189, 216, 139);
     padding: 40px;
 }
+.nav{
+    color: green;
+    font-size: 1.5em;
+    font-family: 'VT323', monospace;
+}
+.nav-link:hover{
+    background-color: rgb(181, 243, 181);
+    color: white;
+}
